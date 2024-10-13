@@ -13,6 +13,13 @@ Multiple developers work together in Replit, with Cursor helping teams refactor,
 
 This tool would significantly enhance team productivity and code quality, ensuring consistency and efficiency across large development projects. It would be especially valuable for enterprises that rely on remote or distributed teams.
 
+## Tools We Used
+Replit, https://replit.com/~
+Cursor, https://www.cursor.com
+Anthropic Claude, https://docs.anthropic.com/en/home
+Streamlit, https://streamlit.io
+OpenAI GPT-4o, https://platform.openai.com/docs/models/gpt-4o
+
 ## Getting Started
 
 ### Prerequisites
