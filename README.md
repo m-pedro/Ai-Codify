@@ -2,11 +2,11 @@
 
 <img src="/public/Logo.png" >
 
-## Description
+## Overview
 
 A smart tool for distributed teams to automate code reviews, refactor efficiently, and get real-time AI-driven feedback. Using Replit, Cursor & Claude to allow distributed teams in an enterprise to collaborate on coding projects with AI-enhanced support.
 
-## Long description
+## Description
 A tool for large enterprises that allows distributed teams to collaborate on coding projects with AI-enhanced support. Replit provides the cloud-based environment for real-time collaboration, Cursor optimizes team efficiency with predictive code generation and error detection, and Claude acts as a Tech Lead, helping with code reviews, suggesting optimizations based on the team's previous code, and ensuring the team follows best practices.
 
 Multiple developers work together in Replit, with Cursor helping teams refactor, debug, and enhance their code. Claude can provide high-level oversight, such as suggesting improvements based on the overall codebase, offering advice on architecture or optimization, and ensuring security and compliance protocols are followed.
